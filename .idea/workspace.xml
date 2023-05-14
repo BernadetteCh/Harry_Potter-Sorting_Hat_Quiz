@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0e685a4-dfef-4aea-b667-bc8a0d9fded9" name="Changes" comment="Create quiz to sort students into the right hogwarts house">
+    <list default="true" id="b0e685a4-dfef-4aea-b667-bc8a0d9fded9" name="Changes" comment="add img and readme file">
       <change afterPath="$PROJECT_DIR$/.readme" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -91,7 +91,7 @@
       <workItem from="1675524048310" duration="17845000" />
       <workItem from="1676279289198" duration="944000" />
       <workItem from="1679218495419" duration="634000" />
-      <workItem from="1684074122992" duration="348000" />
+      <workItem from="1684074122992" duration="668000" />
     </task>
     <task id="LOCAL-00001" summary="Create project">
       <created>1675522757921</created>
@@ -107,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675543499150</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add img and readme file">
+      <created>1684074789663</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684074789663</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create project" />
     <MESSAGE value="Create quiz to sort students into the right hogwarts house" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create quiz to sort students into the right hogwarts house" />
+    <MESSAGE value="add img and readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add img and readme file" />
   </component>
 </project>
