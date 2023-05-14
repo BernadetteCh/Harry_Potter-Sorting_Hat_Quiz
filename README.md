@@ -8,4 +8,4 @@ application.
 Just answer the questions from the hat and at the end of the game you will know
 in which house you belong.
 
-![It is a console game and you can type your answers directly in the console](./img/Screenshot from 2023-05-14)
+![It is a console game and you can type your answers directly in the console](./Screenshot from 2023-05-14)
